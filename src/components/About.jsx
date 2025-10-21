@@ -12,7 +12,7 @@ function About() {
     const profileInfo = {
         name: "Sahad P",
         resumeLink: "/ResumeHRIDYAPV.pdf",
-        profileImage: "public/profile-pic (1).png",
+        profileImage: "/profile-pic-1.png",
     };
 
     const details = [
